@@ -10,8 +10,8 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h1 className="text-5xl md:text-6xl font-bold text-[#3F5C4B] mb-6 text-center">
-              <span className="text-white text-4xl md:text-5xl">{t('hero.title1')}</span><br />
+            <h1 className="text-4xl md:text-5xl font-bold text-[#3F5C4B] mb-6 text-center">
+              <span className="text-white text-3xl md:text-4xl">{t('hero.title1')}</span><br />
               <span className="text-[#F4A259]">{t('hero.title2')}</span> <span className="text-[#F4A259]">{t('hero.title3')}</span><br />
               <span className="text-[#F4A259]">{t('hero.title4')}</span>
             </h1>
@@ -69,11 +69,11 @@ const Hero = () => {
           </div>
           
           <div className="relative">
-            <div className="relative rounded-2xl overflow-hidden shadow-2xl ml-[-24px] w-[48rem]">
+            <div className="relative rounded-2xl overflow-hidden shadow-2xl ml-[-24px] w-[36rem] mt-[-6rem]">
               <img
                 src={img2}
                 alt={t('hero.imgAlt')}
-                className="w-[48rem] h-[32rem] object-cover"
+                className="w-[36rem] h-[24rem] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
             </div>
