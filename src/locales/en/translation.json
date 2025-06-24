@@ -1,0 +1,251 @@
+{
+  "welcome": "Welcome to our clinic",
+  "about": "About Our Clinic",
+  "hero": {
+    "title1": "True Rays",
+    "title2": "Neuro Rehabilitation",
+    "title3": "& Physiotherapy",
+    "title4": "Center",
+    "subtitle": "Restoring function, improving quality of life, and empowering recovery through evidence-based neurological rehabilitation and physiotherapy treatments.",
+    "cta1": "Schedule Consultation",
+    "cta2": "View Services",
+    "yearsExperience": "Years Experience",
+    "patientsTreated": "Patients Treated",
+    "successRate": "Success Rate",
+    "imgAlt": "Physical therapy session",
+    "certifiedSpecialists": "Certified Specialists",
+    "licensedExperienced": "Licensed & Experienced"
+  },
+  "about.heading": "About Our Clinic",
+  "about.intro": "Founded in 2013 by Dr. Deepa Singh, True Rays Neuro Rehab Physiotherapy Center has been serving the community with expert care in Mayur Vihar Phase 3. We specialize in neurological, musculoskeletal, and developmental rehabilitation, offering advanced physiotherapy services tailored to each patient's needs. Our dedicated team is committed to helping every individual regain mobility, improve function, and achieve lasting recovery.",
+  "about.imgAlt": "Human brain scan in a neurology clinic",
+  "about.satisfactionRate": "Patient Satisfaction Rate",
+  "about.ourApproach": "Our Approach",
+  "about.ourApproachDesc": "We believe in a holistic approach to rehabilitation, combining evidence-based treatments with personalized care plans tailored to each patient's unique needs and goals.",
+  "about.personalizedCare": "Personalized Care",
+  "about.personalizedCareDesc": "Custom treatment plans designed for your specific condition and recovery goals.",
+  "about.expertTeam": "Expert Team",
+  "about.expertTeamDesc": "Highly qualified professionals with extensive experience in neurology and other rehabilitation.",
+  "about.ourMission": "Our Mission",
+  "about.ourMissionDesc": "To provide comprehensive, compassionate, and cutting-edge neurological rehabilitation services that empower our patients to regain independence, improve their quality of life, and achieve their personal recovery goals through evidence-based treatment approaches.",
+  "about.emergencySupport": "Emergency Support",
+  "about.yearsOfExperience": "Years of Experience",
+  "about.patientsTreated": "Patients Treated",
+  "about.successRate": "Success Rate",
+  "about.supportAvailable": "Support Available",
+  "services": {
+    "heading": "Our Specialized Services",
+    "description": "Comprehensive rehabilitation and physiotherapy services tailored to your specific needs and recovery goals.",
+    "neurological": {
+      "title": "Neurological Rehabilitation",
+      "desc": "Specialized therapy for a wide range of neurological conditions, designed to support recovery, improve function, and enhance quality of life.",
+      "list": [
+        "Stroke Recovery",
+        "Nerve Compression & Tingling Sensation",
+        "Cerebral Palsy",
+        "Brain Injury (Traumatic or Degenerative)",
+        "Multiple Sclerosis (MS)",
+        "Parkinson's Disease",
+        "Myasthenia Gravis",
+        "Facial Palsy (Bell's Palsy)",
+        "Spinal Cord Injury",
+        "Developmental Delay",
+        "Movement Disorders",
+        "Motor Neuron Disease (MND)",
+        "Muscular Dystrophy"
+      ]
+    },
+    "musculoskeletal": {
+      "title": "Musculoskeletal Physiotherapy",
+      "desc": "Comprehensive care for a wide range of musculoskeletal conditions to restore mobility, reduce pain, and improve overall function.",
+      "list": [
+        "Frozen Shoulder",
+        "Tendon Rupture",
+        "Arthritis (Osteoarthritis, Rheumatoid Arthritis)",
+        "Sprain (Ligament Pull)",
+        "Sciatica",
+        "Cervical Myelopathy",
+        "Scoliosis",
+        "Spinal Stenosis",
+        "Herniated Disc (Slipped Disc)",
+        "Fibromyalgia Syndrome",
+        "Meniscal Injury",
+        "Vertigo",
+        "Carpal Tunnel Syndrome (CTS)",
+        "Ligament Injuries",
+        "Strain (Muscle Pull)",
+        "Tennis Elbow",
+        "Rotator Cuff Injury",
+        "Plantar Fasciitis",
+        "Tailbone Pain (Coccygodynia)",
+        "Degenerative Disc Disease",
+        "Total Knee Replacement (TKR) Rehab",
+        "Shoulder Dislocation"
+      ]
+    },
+    "electrotherapy": {
+      "title": "Electrotherapy & Advanced Rehabilitation",
+      "desc": "Cutting-edge therapies using advanced electrical stimulation, manual techniques, and supportive modalities to manage pain, restore function, and promote recovery.",
+      "list": [
+        "Ultrasound Therapy",
+        "Functional Electrical Stimulation (FES)",
+        "Wax Therapy (Paraffin Bath)",
+        "Chiropractic Therapy",
+        "Soft Tissue Mobilization",
+        "Shoulder Wheel",
+        "Deep Heat Therapy",
+        "Balance Training (Balance Board)",
+        "Infrared Radiation (IRR)",
+        "Interferential Therapy (IFT)",
+        "Manual Therapy",
+        "Spinal Decompression",
+        "Kinesio Taping",
+        "Shortwave Diathermy",
+        "Vibrator Therapy",
+        "Cupping Therapy",
+        "Parallel Bars (for Gait Training)",
+        "Transcutaneous Electrical Nerve Stimulation (TENS)",
+        "Thermotherapy (Heat & Cold Applications)",
+        "Traction Therapy",
+        "Myofascial Release",
+        "Pulley Therapy",
+        "Muscle Stimulator",
+        "Proprioceptive Neuromuscular Facilitation (PNF)",
+        "Weighted Cuffs"
+      ]
+    },
+    "cardiovascular": {
+      "title": "Cardiovascular Physiotherapy",
+      "desc": "Cardiac rehabilitation and conditioning programs to restore cardiovascular health and function.",
+      "list": [
+        "Cardiac Rehab",
+        "Fitness Training",
+        "Post-Surgery Recovery",
+        "Risk Assessment"
+      ]
+    },
+    "homevisit": {
+      "title": "Home Visit Services",
+      "desc": "Convenient in-home therapy sessions for patients with mobility limitations.",
+      "list": [
+        "Home Assessment",
+        "Family Training",
+        "Equipment Setup",
+        "Progress Monitoring"
+      ]
+    },
+    "grouptherapy": {
+      "title": "Group Therapy Sessions",
+      "desc": "Therapeutic group activities that promote social interaction and functional improvement.",
+      "list": [
+        "Balance Training",
+        "Strength Groups",
+        "Support Groups"
+      ]
+    }
+  },
+  "specializedTherapy": {
+    "heading": "Other Specialized Therapy",
+    "description": "We offer advanced, targeted therapies for a range of complex conditions to accelerate recovery and enhance well-being.",
+    "cards": [
+      {
+        "title": "Women's Health",
+        "subtitle": "Empowering Wellness at Every Stage",
+        "description": "From hormonal balance to mental wellness, we support women through every phase of life. Access expert care, personalized plans, and trusted guidance for a healthier you.",
+        "focusLabel": "Focus Areas:",
+        "focusAreas": [
+          "Regular Checkups",
+          "Menstrual & Reproductive Health",
+          "Bone & Heart Care",
+          "Mental Health Support"
+        ],
+        "callToAction": "Your health matters. Prioritize it today."
+      },
+      {
+        "title": "Pediatric Physiotherapy",
+        "subtitle": "Gentle Care for Growing Bodies",
+        "description": "Specialized therapy designed to support children's physical development, mobility, and independence. Our expert care helps your child thrive—step by step.",
+        "focusLabel": "Focus Areas:",
+        "focusAreas": [
+          "Developmental Delay Support",
+          "Cerebral Palsy & Neuromuscular Conditions",
+          "Post-Surgery Rehabilitation",
+          "Balance & Coordination Training"
+        ],
+        "callToAction": "Nurturing strength from the start."
+      },
+      {
+        "title": "Reiki Therapy",
+        "subtitle": "Healing Through Gentle Touch",
+        "description": "Experience the power of energy healing through Reiki—a gentle touch therapy that promotes deep relaxation, stress reduction, and emotional clarity. By balancing the body's energy, Reiki supports natural healing and restores overall well-being.",
+        "focusLabel": "Focus Areas:",
+        "focusAreas": [
+          "Stress & Anxiety Relief",
+          "Emotional Balance",
+          "Pain & Tension Reduction",
+          "Energy Flow Restoration"
+        ],
+        "callToAction": "Reconnect with your inner peace. Let healing begin."
+      },
+      {
+        "title": "Ayurvedic Bandaging",
+        "subtitle": "Natural Relief with Physiotherapy Support",
+        "description": "Combining traditional Ayurvedic bandaging with modern physiotherapy, this treatment targets inflammation, swelling, and joint discomfort. Herbal formulations are applied through medicated wraps, enhancing blood flow and accelerating recovery alongside physical therapy.",
+        "focusLabel": "Focus Areas:",
+        "focusAreas": [
+          "Joint & Muscle Inflammation",
+          "Swelling Reduction",
+          "Pain Management",
+          "Injury Recovery Support"
+        ],
+        "callToAction": "Experience the blend of ancient wisdom and modern care."
+      }
+    ]
+  },
+  "team": {
+    "heading": "Our Expert Team",
+    "description": "Meet our team of highly qualified and experienced physiotherapists dedicated to your recovery.",
+    "members": [
+      {
+        "name": "Dr Udit",
+        "position": "Physiotherapist and Chiropractor"
+      },
+      {
+        "name": "Pooja Kashyap",
+        "position": "Assistant"
+      }
+    ]
+  },
+  "successStories": {
+    "heading": "Patient Success Stories",
+    "description": "Hear from our patients about their journey to recovery and improved quality of life.",
+    "stats": [
+      { "value": "100%", "label": "Patient Satisfaction" },
+      { "value": "100%", "label": "Treatment Success Rate" },
+      { "value": "5/5", "label": "Average Rating" },
+      { "value": "5000+", "label": "Lives Transformed" }
+    ]
+  },
+  "contact": {
+    "heading": "Get in Touch",
+    "description": "Have questions about our services or want to schedule a consultation? We're here to help.",
+    "infoHeading": "Contact Information",
+    "location": "Our Location",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "hours": "Working Hours",
+    "formHeading": "Send us a Message",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "Enter message subject",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Enter your message",
+    "button": "Send Message"
+  },
+  "footer": {
+    "copyright": "2025 true rays neurohab physitherapy center. All Rights Reserved."
+  }
+} 
