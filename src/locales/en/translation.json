@@ -227,7 +227,7 @@
       { "value": "100%", "label": "Patient Satisfaction" },
       { "value": "100%", "label": "Treatment Success Rate" },
       { "value": "5/5", "label": "Average Rating" },
-      { "value": "5000+", "label": "Lives Transformed" }
+      { "value": "50000+", "label": "Lives Transformed" }
     ]
   },
   "contact": {

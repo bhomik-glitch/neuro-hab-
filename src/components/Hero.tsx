@@ -56,14 +56,14 @@ const Hero = () => {
                 <div className="flex items-center justify-center w-12 h-12 bg-green-600/20 rounded-lg mx-auto mb-3">
                   <Users className="h-6 w-6 text-green-400" />
                 </div>
-                <div className="text-2xl font-bold text-[#F4EEDF]">5000+</div>
+                <div className="text-2xl font-bold text-[#F4EEDF]">50000+</div>
                 <div className="text-[#F4EEDF]/80">{t('hero.patientsTreated')}</div>
               </div>
               <div className="text-center">
                 <div className="flex items-center justify-center w-12 h-12 bg-orange-600/20 rounded-lg mx-auto mb-3">
                   <Clock className="h-6 w-6 text-orange-400" />
                 </div>
-                <div className="text-2xl font-bold text-[#F4EEDF]">95%</div>
+                <div className="text-2xl font-bold text-[#F4EEDF]">100%</div>
                 <div className="text-[#F4EEDF]/80">{t('hero.successRate')}</div>
               </div>
             </div>

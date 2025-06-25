@@ -7,7 +7,7 @@ const About = () => {
   const { t } = useTranslation();
   const stats = [
     { number: "15+", label: "Years of Experience", icon: Award },
-    { number: "5000+", label: "Patients Treated", icon: Users },
+    { number: "50000+", label: "Patients Treated", icon: Users },
     { number: "95%", label: "Success Rate", icon: Target },
     { number: "24/7", label: "Support Available", icon: Heart }
   ];
