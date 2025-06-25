@@ -13,7 +13,7 @@ const Hero = () => {
           <div>
             <h1 className="text-4xl md:text-5xl font-bold text-[#3F5C4B] mb-6 text-center flex flex-col items-center">
               <img src={logo} alt="True Rays Logo" className="h-14 md:h-20 mb-2 rounded-xl" />
-              <span className="text-[#F4A259]">{t('hero.title2')}</span> <span className="text-[#F4A259]">{t('hero.title3')}</span><br />
+              <span className="text-[#F4A259]">{t('hero.title2')} {t('hero.title3')}</span>
               <span className="text-[#F4A259]">{t('hero.title4')}</span>
             </h1>
             <p className="text-xl text-[#F4EEDF] mt-6 leading-relaxed text-center">
@@ -63,7 +63,7 @@ const Hero = () => {
                 <div className="flex items-center justify-center w-12 h-12 bg-orange-600/20 rounded-lg mx-auto mb-3">
                   <Clock className="h-6 w-6 text-orange-400" />
                 </div>
-                <div className="text-2xl font-bold text-[#F4EEDF]">100%</div>
+                <div className="text-2xl font-bold text-[#F4EEDF]">99.9%</div>
                 <div className="text-[#F4EEDF]/80">{t('hero.successRate')}</div>
               </div>
             </div>
