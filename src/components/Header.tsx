@@ -19,7 +19,6 @@ const Header = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center">
             <a href="#" className="flex items-center">
-              <img src={logo} alt="NeuroRehab Logo" className="h-16 w-auto mr-3 rounded-lg border-2 border-[#3F5C4B]" />
               <span className="text-xl font-bold text-[#47624F]">NeuroRehab</span>
             </a>
           </div>

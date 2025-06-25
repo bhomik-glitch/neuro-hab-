@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowRight, Award, Users, Clock } from 'lucide-react';
 import img2 from '../assets/img 2 .png';
+import logo from '../assets/logo/logo.png';
 import { useTranslation } from 'react-i18next';
 
 const Hero = () => {
@@ -10,8 +11,8 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h1 className="text-4xl md:text-5xl font-bold text-[#3F5C4B] mb-6 text-center">
-              <span className="text-white text-3xl md:text-4xl">{t('hero.title1')}</span><br />
+            <h1 className="text-4xl md:text-5xl font-bold text-[#3F5C4B] mb-6 text-center flex flex-col items-center">
+              <img src={logo} alt="True Rays Logo" className="h-14 md:h-20 mb-2 rounded-xl" />
               <span className="text-[#F4A259]">{t('hero.title2')}</span> <span className="text-[#F4A259]">{t('hero.title3')}</span><br />
               <span className="text-[#F4A259]">{t('hero.title4')}</span>
             </h1>
