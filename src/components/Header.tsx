@@ -43,12 +43,24 @@ const Header = () => {
           </nav>
           
           <div className="flex items-center space-x-4">
-            <button className="hidden md:block text-[#3F5C4B] hover:text-[#F4A259] transition-colors">
+            <a
+              href="https://wa.link/skflls"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden md:block text-[#3F5C4B] hover:text-[#F4A259] transition-colors"
+              aria-label="Contact on WhatsApp"
+            >
               <Phone className="h-5 w-5" />
-            </button>
-            <button className="bg-[#F4A259] text-white px-8 py-3 rounded-lg hover:bg-[#F4A259]/90 transition-colors font-medium text-lg">
+            </a>
+            <a
+              href="https://wa.link/skflls"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-[#F4A259] text-white px-8 py-3 rounded-lg hover:bg-[#F4A259]/90 transition-colors font-medium text-lg flex items-center justify-center"
+              style={{ textDecoration: 'none' }}
+            >
               Book Now
-            </button>
+            </a>
             <div className="md:hidden">
               <button
                 onClick={() => setIsMenuOpen(!isMenuOpen)}

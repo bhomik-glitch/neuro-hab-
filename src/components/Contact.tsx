@@ -137,12 +137,15 @@ const Contact = () => {
                 ></textarea>
               </div>
               
-              <button
-                type="submit"
-                className="w-full bg-[#F4A259] text-white py-3 rounded-lg hover:bg-[#F4A259]/90 transition-colors font-medium"
+              <a
+                href="https://wa.link/skflls"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full bg-[#F4A259] text-white py-3 rounded-lg hover:bg-[#F4A259]/90 transition-colors font-medium flex items-center justify-center"
+                style={{ textDecoration: 'none' }}
               >
                 {t('contact.button')}
-              </button>
+              </a>
             </form>
           </div>
         </div>
