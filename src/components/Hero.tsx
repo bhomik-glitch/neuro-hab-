@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight, Award, Users, Clock } from 'lucide-react';
 import img2 from '../assets/img 2 .png';
-import logo from '../assets/logo/logo.png';
+import logo from '../assets/logo/true rays logo-1.png';
 import { useTranslation } from 'react-i18next';
 
 const Hero = () => {

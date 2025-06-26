@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Menu, X, Phone, MapPin, Brain } from 'lucide-react';
-import logo from '../assets/logo/logo.png';
+import logo from '../assets/logo/true rays logo-1.png';
 
 const navItems = [
   { name: 'Home', href: '#home' },
@@ -19,6 +19,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center">
             <a href="#" className="flex items-center">
+              <img src={logo} alt="True Rays Logo" className="h-10 w-auto mr-2 rounded-xl" />
               <span className="text-xl font-bold text-[#47624F]">NeuroRehab</span>
             </a>
           </div>
