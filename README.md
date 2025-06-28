@@ -1,6 +1,7 @@
 # NeuroHAD
 
 A modern, multilingual web application for neurology clinics, built with React, TypeScript, Vite, and Tailwind CSS.
+currently hosted on - https://www.trueraysneurohab.xyz/
 
 ## Features
 
@@ -81,10 +82,3 @@ web/project/
 - English: `src/locales/en/translation.json`
 - Hindi: `src/locales/hi/translation.json`
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](LICENSE) (or specify your license here) 
